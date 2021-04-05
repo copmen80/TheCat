@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
 
     private val compositeDisposable = CompositeDisposable()
 
+
     private var callbackManager: CallbackManager? = null
 
     private var layoutManager: GridLayoutManager? = null
